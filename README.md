@@ -19,7 +19,9 @@ Using neural networks (CNN) to get ~100% accuracy.\
   **[Update 21.08.2020]**\
   Adding a visualization [Top 34%]\
   **[Update 01.09.2020]**\
-  Adding data augmentation and callbacks [Top 14%]
+  Adding data augmentation and callbacks [Top 14%]\
+  **[Update 01.09.2020]**\
+  Adding batch normalization and callbacks [Top 10%]
 
 --- 
 
