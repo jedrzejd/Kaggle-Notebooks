@@ -43,6 +43,9 @@ These are my kaggle notebooks that I made in my spare time.
     ### Versions
     * **[Update 02.09.2020]**\
     Creation first version with CNN network
+    
+    * **[Update 08.09.2020]**\
+    Create a description
     ### Summary
     
 
