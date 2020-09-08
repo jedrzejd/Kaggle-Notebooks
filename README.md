@@ -34,7 +34,7 @@ These are my kaggle notebooks that I made in my spare time.
     The final accuracy of 99.6% was achieved on the MNIST data set prepared for the [competition](https://www.kaggle.com/c/digit-recognizer)
 ***
 
-- [Diagnosis of pneumonia chest X-ray](https://www.kaggle.com/jedrzejdudzicz/diagnosis-of-pneumonia-chest-x-ray/)
+- [Diagnosis of pneumonia chest X-ray](https://www.kaggle.com/jedrzejdudzicz/pneumonia-detection-on-chest-x-ray-accuracy-90)
 
     ### Description
         I will be working with the Chest X-ray dataset (5863 JPEG) to create a universal model for pneumonia diagnosis. 
@@ -47,7 +47,7 @@ These are my kaggle notebooks that I made in my spare time.
     * **[Update 08.09.2020]**\
     Create a description
     ### Summary
-    
+    The final accuracy of ~92% was achieved.
 
 
 --- 
