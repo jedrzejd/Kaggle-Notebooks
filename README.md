@@ -28,7 +28,7 @@ These are my kaggle notebooks that I made in my spare time.
     Adding a visualization [Top 34%]
     * **[Update 01.09.2020]**\
     Adding data augmentation, batch normalization and callbacks [Top 10%]
-    * **[Update 15.09.2020]**\ 
+    * **[Update 15.09.2020]**\
     Adding extra dataset to improve accuracy to 99.8 [Top 6%]
     
     ### Summary
