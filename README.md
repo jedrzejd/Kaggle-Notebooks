@@ -20,7 +20,10 @@ These are my kaggle notebooks that I made in my spare time.
     ### Description
         In this notebook, I was working on the MNIST dataset. 
         The goal was to identify handwritten numbers close to 100 percent.
-
+    
+    ### Screenshot
+    ![MNIST](imgs/MNIST.png)
+    
     ### Versions
     * **[Update 18.08.2020]**\
     Creation of the CNN network
@@ -41,6 +44,9 @@ These are my kaggle notebooks that I made in my spare time.
         I will be working with the Chest X-ray dataset (5863 JPEG) to create a universal model for pneumonia diagnosis. 
         The goal is to know with over 90% accuracy whether a person is healthy, has bacterial or viral pneumonia.
 
+    ### Screenshot
+    ![MNIST](imgs/X-ray.png)
+    
     ### Versions
     * **[Update 02.09.2020]**\
     Creation first version with CNN network
