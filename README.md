@@ -34,6 +34,10 @@ These are my kaggle notebooks that I made in my spare time.
     * **[Update 15.09.2020]**\
     Adding extra dataset to improve accuracy to 99.8 [Top 6%]
     
+    * **[Update 03.05.2021]**\
+    Adding Occlusion sensitivity and changing metrics to f1 [Top 4%]
+    
+    
     ### Summary
     The final accuracy of 99.6% was achieved on the MNIST data set prepared for the [competition](https://www.kaggle.com/c/digit-recognizer)
 ***
