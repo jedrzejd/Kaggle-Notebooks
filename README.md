@@ -60,6 +60,23 @@ These are my kaggle notebooks that I made in my spare time.
     ### Summary
     The final accuracy of ~92% was achieved.
 
+***
+- [Housing pirces prediction](https://www.kaggle.com/jedrzejdudzicz/housing-prices-prediction-top-2)
+
+    ### Description
+        The dataset contains processed housing price data. 
+        My goal was to maximize the accuracy of price prediction for an advertisement.
+
+    ### Screenshot
+    ![MNIST](imgs/X-ray.png)
+    
+    ### Versions
+    * **[Update 14.05.2021]**\
+    First version with EDA and modeling.
+   
+    ### Summary
+    The final submission is Top 2% on leaderboard.
+
 
 --- 
 
