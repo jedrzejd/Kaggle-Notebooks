@@ -36,10 +36,9 @@ These are my kaggle notebooks that I made in my spare time.
     
     * **[Update 03.05.2021]**\
     Adding Occlusion sensitivity and changing metrics to f1 [Top 4%]
-    
-    
+      
     ### Summary
-    The final accuracy of 99.6% was achieved on the MNIST data set prepared for the [competition](https://www.kaggle.com/c/digit-recognizer)
+      The final accuracy of 99.6% was achieved on the MNIST data set prepared for the [competition](https://www.kaggle.com/c/digit-recognizer)
 ***
 
 - [Diagnosis of pneumonia chest X-ray](https://www.kaggle.com/jedrzejdudzicz/pneumonia-detection-on-chest-x-ray-accuracy-90)
@@ -49,7 +48,7 @@ These are my kaggle notebooks that I made in my spare time.
         The goal is to know with over 90% accuracy whether a person is healthy, has bacterial or viral pneumonia.
 
     ### Screenshot
-    ![MNIST](imgs/X-ray.png)
+    ![Chest](imgs/X-ray.png)
     
     ### Versions
     * **[Update 02.09.2020]**\
@@ -58,24 +57,41 @@ These are my kaggle notebooks that I made in my spare time.
     * **[Update 08.09.2020]**\
     Create a description
     ### Summary
-    The final accuracy of ~92% was achieved.
+      The final accuracy of ~92% was achieved.
 
 ***
-- [Housing pirces prediction](https://www.kaggle.com/jedrzejdudzicz/housing-prices-prediction-top-2)
+- [Housing prices prediction](https://www.kaggle.com/jedrzejdudzicz/housing-prices-prediction-top-2)
 
     ### Description
         The dataset contains processed housing price data. 
         My goal was to maximize the accuracy of price prediction for an advertisement.
 
     ### Screenshot
-    ![MNIST](imgs/house.png)
+    ![House](imgs/house.png)
     
     ### Versions
     * **[Update 14.05.2021]**\
     First version with EDA and modeling.
    
     ### Summary
-    The final submission is Top 2% on leaderboard.
+      The final submission is Top 2% on leaderboard.
+
+***
+
+- [Heart Attack Analysis + prediciton 90% acc](https://www.kaggle.com/jedrzejdudzicz/heart-attack-analysis-prediciton-90-acc)
+
+    ### Description
+      My goal for this dataset was to analyze and predict people with heart disease.
+
+    ### Screenshot
+    ![Heart](imgs/heart.png)
+    
+    ### Versions
+    * **[Update 14.05.2021]**\
+    First version with EDA and modeling.
+      
+    ### Summary
+      The final accuracy of ~90% was achieved.
 
 
 --- 
