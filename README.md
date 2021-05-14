@@ -68,7 +68,7 @@ These are my kaggle notebooks that I made in my spare time.
         My goal was to maximize the accuracy of price prediction for an advertisement.
 
     ### Screenshot
-    ![MNIST](imgs/X-ray.png)
+    ![MNIST](imgs/house.png)
     
     ### Versions
     * **[Update 14.05.2021]**\
